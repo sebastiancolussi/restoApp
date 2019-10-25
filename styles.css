@@ -1,0 +1,25 @@
+body {
+    background: lightblue;
+}
+
+.container {
+    display:flex;
+}
+#leftside{
+    background-color: blueviolet;
+    width:50%;
+    display: flex;
+    
+}
+
+#rightside {
+    background-color: red;
+    width:50%;
+    
+}
+
+form {
+    margin:10px;
+    padding:10px;
+}
+
